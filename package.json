@@ -1,0 +1,8 @@
+{
+  "name": "midineropro",
+  "version": "1.0.0",
+  "description": "MiDinero Pro - App de finanzas personales en Soles",
+  "dependencies": {
+    "serve": "^14.2.0"
+  }
+}
